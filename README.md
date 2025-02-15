@@ -54,3 +54,4 @@ The DeepSeek News Agent is a powerful tool designed to help you discover and wri
 
 - [Streamlit](https://streamlit.io/)
 - [Groq](https://console.groq.com/)
+- [Repo](https://github.com/ashishpatel26/AIAgentWorkshop)
